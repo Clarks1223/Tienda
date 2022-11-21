@@ -9,7 +9,7 @@ public class Entregable {
     public boolean isEntregado() {
         return j.entregado;
     }
-    public void compareTo(Videojuegos a) {
+    /*public void compareTo(Videojuegos a) {
 
         public static void burbuja(int[] A) {
             int i, j, aux;
@@ -24,7 +24,7 @@ public class Entregable {
             }
         }
 
-    }
+    }*/
 
 
 }
